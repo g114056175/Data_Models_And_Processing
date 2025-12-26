@@ -183,11 +183,7 @@ batch_size = 32  # 改為32或16
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 ```
 
-## 📞 聯絡資訊
-
-如有問題或建議，請查閱專案文檔或提交Issue。
-
-## 📜 授權
+## 授權
 
 本專案採用 MIT License - 詳見 [LICENSE](LICENSE) 文件
 
